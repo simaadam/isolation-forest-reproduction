@@ -1,0 +1,13 @@
+Dataset,iForest time (paper),iForest time (mine),LOF time (paper),LOF time (mine)
+Http,15.58,5.194,,16.038
+ForestCover,16.33,1.804,,7.725
+Mulcross,12.52,2.323,,9.043
+Smtp,2.72,0.954,,1.44
+Shuttle,3.13,0.673,7489.74,5.76
+Mammography,0.66,0.309,14647.0,0.395
+Annthyroid,0.51,0.344,72.02,0.115
+Satellite,1.63,0.251,217.39,0.334
+Pima,0.28,0.196,1.14,0.006
+Breastw,0.28,0.197,1.77,0.01
+Arrhythmia,2.98,0.19,6.35,0.008
+Ionosphere,0.48,0.298,0.64,0.003
